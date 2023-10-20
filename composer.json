@@ -1,6 +1,7 @@
 {
     "name": "talex/simple-hash",
     "description": "Encode number to hash and decode hash into number",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Talex\\SimpleHash\\": "src/"
