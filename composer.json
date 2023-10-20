@@ -1,0 +1,18 @@
+{
+    "name": "sapi/simple-hash",
+    "description": "Encode number to hash and decode hash into number",
+    "autoload": {
+        "psr-4": {
+            "Sapi\\SimpleHash\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandru Tanasie",
+            "email": "alexandrutanasiee@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
