@@ -1,9 +1,9 @@
 {
-    "name": "sapi/simple-hash",
+    "name": "talex/simple-hash",
     "description": "Encode number to hash and decode hash into number",
     "autoload": {
         "psr-4": {
-            "Sapi\\SimpleHash\\": "src/"
+            "Talex\\SimpleHash\\": "src/"
         }
     },
     "authors": [

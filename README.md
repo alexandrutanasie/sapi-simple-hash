@@ -2,10 +2,10 @@
 
 To install SimpleHash run the command:
 
-    composer require sapi/simple-hash
+    composer require talex/simple-hash
 
 ```php
-use  Sapi\SimpleHash\Str;
+use  Talex\SimpleHash\Str;
 
 $number = 111;
 $encoderDecoder = new Str();

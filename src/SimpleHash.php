@@ -1,5 +1,5 @@
 <?php
-namespace Sapi\SimpleHash;
+namespace Talex\SimpleHash;
 
 class Str {
     public $str;
