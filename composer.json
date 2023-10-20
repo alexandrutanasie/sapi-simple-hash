@@ -6,6 +6,7 @@
             "Talex\\SimpleHash\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Alexandru Tanasie",
